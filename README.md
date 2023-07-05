@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Naeliss
+- 👀 I’m an aspiring software developer!
+- 🌱 I’m currently learning C & Python to make games eventually!
+- 
+- 📫 How to reach me: naeliss.github@gmail.com
