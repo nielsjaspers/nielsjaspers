@@ -18,4 +18,4 @@ I’m a Dutch aspiring software developer and tech enthusiast who's currently le
 
 ## 📞 Contact
 - 📫 Way(s) to reach me:
-  - [GitHub](naeliss.github@gmail.com)
+  - naeliss.github@gmail.com
