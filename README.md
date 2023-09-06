@@ -5,7 +5,7 @@
 </h1>
 
 ## 🙋‍♂️About me:
-I’m a Dutch aspiring software developer and tech enthusiast who's currently learning C & Python!
+I’m an aspiring Dutch software developer and tech enthusiast who's currently learning C & Python!
 - ✏️ Some of my hobbies:
   - 👨‍💻 Programming & Problem solving
   - 🎮 Gaming
