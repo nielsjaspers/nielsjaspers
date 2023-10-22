@@ -11,7 +11,7 @@ I’m an aspiring Dutch software developer and tech enthusiast who's currently s
   - 🎮 Gaming
   - 🖥️ Messing with computer hardware & software (The good and fun way!)
   - 📚 Reading
-  - 📑Learning new things
+  - 📑 Learning new things
 ## ⚡ My GitHub Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naeliss&theme=transparent&hide_border=true)](https://git.io/streak-stats) <br>
 
