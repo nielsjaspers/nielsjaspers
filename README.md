@@ -1,6 +1,6 @@
 <h1>
   <div align = "center">
-    Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <h1>Hi there!</h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </div>
 </h1>
 
