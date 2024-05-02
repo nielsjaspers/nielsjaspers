@@ -8,7 +8,6 @@
 I’m an aspiring Dutch software developer and tech enthusiast who's currently studying Computer Science!
 - ✏️ Some of my hobbies:
   - 👨‍💻 Programming & Problem solving
-  - 🎮 Gaming
   - 🖥️ Messing with computer hardware & software (The good and fun way!)
   - 📚 Reading
   - 📑 Learning new things
