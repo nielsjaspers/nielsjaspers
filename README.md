@@ -12,7 +12,7 @@ I’m an aspiring Dutch software developer and tech enthusiast who's currently s
   - 📚 Reading
   - 📑 Learning new things
 ## ⚡ My GitHub Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naeliss&theme=transparent&hide_border=true)](https://git.io/streak-stats) <br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nielsjaspers&theme=transparent&hide_border=true)](https://git.io/streak-stats) <br>
 
 ## 📞 Contact
 - 📫 Way(s) to reach me:
