@@ -1,19 +1,15 @@
-<h1>
-  <div align = "center">
-    Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </div>
-</h1>
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+I’m a Dutch CS student at NHL Stenden, focused on building practical skills in programming and software development. I enjoy experimenting with different technologies and projects to find what I’m most passionate about.
 
-## 🙋‍♂️About me:
-I’m an aspiring Dutch software developer and tech enthusiast who's currently studying Computer Science!
-- ✏️ Some of my hobbies:
-  - 👨‍💻 Programming & Problem solving
-  - 🖥️ Messing with computer hardware & software (The good and fun way!)
-  - 📚 Reading
-  - 📑 Learning new things
-## ⚡ My GitHub Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nielsjaspers&theme=transparent&hide_border=true)](https://git.io/streak-stats) <br>
+## About Me
 
-## 📞 Contact
-- 📫 Way(s) to reach me:
-  - naeliss.github@gmail.com
+* 🌱 Currently loving **Go**
+* 🧠 Exploring different fields to find what excites me most
+* 🛠️ Recently built a **TLS file-sharing project** in Go
+* 💡 Currently working on a **SSH messaging app** using Go
+
+
+## Get in Touch
+
+* LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nielsjasperss/)
+* Email: `naeliss.github <at> gmail.com`
