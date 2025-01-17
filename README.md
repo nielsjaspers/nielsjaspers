@@ -12,4 +12,4 @@ I’m a Dutch CS student at NHL Stenden, focused on building practical skills in
 ## Get in Touch
 
 * LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nielsjasperss/)
-* Email: `naeliss.github <at> gmail.com`
+* Email: `zakelijk <at> nielsjaspers.com`
