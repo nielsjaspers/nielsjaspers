@@ -6,10 +6,11 @@ I’m a Dutch CS student at NHL Stenden, focused on building practical skills in
 * 🌱 Currently loving **Go**
 * 🧠 Exploring different fields to find what excites me most
 * 🛠️ Recently built a **TLS file-sharing project** in Go
-* 💡 Currently working on a **SSH messaging app** using Go
 
 
 ## Get in Touch
 
-* LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nielsjasperss/)
+* [LinkedIn](https://www.linkedin.com/in/nielsjasperss/)
+* [Bluesky](https://bsky.app/profile/nielsjaspers.com)
+* [X / Twitter](https://x.com/_nielsjaspers)
 * Email: `zakelijk <at> nielsjaspers.com`
