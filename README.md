@@ -15,5 +15,4 @@ Learn more about me and read my blog on [my website](https://www.nielsjaspers.co
 
 * [Bluesky](https://bsky.app/profile/nielsjaspers.com)
 * [LinkedIn](https://www.linkedin.com/in/nielsjasperss/)
-* [X / Twitter](https://x.com/_nielsjaspers) _(not really active)_
 * Email: `zakelijk <at> nielsjaspers.com`
