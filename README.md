@@ -1,13 +1,9 @@
-<div align="center">
-  <a href="about.md">About me</a> •
-  <a href="projects.md">Projects</a> •
-  <a href="contact.md">Contact</a>
-</div>
-
-<hr/>
-
-**TL;DR:**
-
-*   `about.md`:  Learn about my background, interests, and skills.
-*   `projects.md`:  See the projects I've worked on.
-*   `contact.md`:  Find ways to connect with me.
+<p align="center">
+  <samp>
+    <a href="about.md">about me</a> .
+    <a href="projects.md">projects</a> .
+    <a href="contact.md">contact</a> .
+    <a href="https://nielsjaspers.com">website</a> .
+    <a href="https://nielsjaspers.com/blog">blog</a>
+  </samp>
+</p>
