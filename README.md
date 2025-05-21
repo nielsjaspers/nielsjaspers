@@ -1,9 +1,10 @@
-<p align="center">
-  <samp>
-    <a href="about.md">about me</a> .
-    <a href="projects.md">projects</a> .
-    <a href="contact.md">contact</a> .
-    <a href="https://nielsjaspers.com">website</a> .
-    <a href="https://nielsjaspers.com/blogs">blog</a>
-  </samp>
-</p>
+dutch cs student building with go and neovim.
+
+projects & blog @ [nielsjaspers.com](https://nielsjaspers.com).
+
+---
+
+reach out:
+* bluesky: [@nielsjaspers.com](https://bsky.app/profile/nielsjaspers.com)
+* linkedin: [@nielsjasperss](https://www.linkedin.com/in/nielsjasperss/)
+* email: `zakelijk <at> nielsjaspers.com`
