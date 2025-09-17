@@ -7,4 +7,4 @@ projects & blog @ [nielsjaspers.com](https://nielsjaspers.com).
 reach out:
 * bluesky: [@nielsjaspers.com](https://bsky.app/profile/nielsjaspers.com)
 * linkedin: [@nielsjasperss](https://www.linkedin.com/in/nielsjasperss/)
-* email: `zakelijk <at> nielsjaspers.com`
+* email: `contact <at> nielsjaspers.com`
