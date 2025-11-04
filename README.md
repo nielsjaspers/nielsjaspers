@@ -1,4 +1,4 @@
-dutch cs student building with go and neovim.
+dutch cs student with an interest in ml
 
 projects & blog @ [nielsjaspers.com](https://nielsjaspers.com).
 
